@@ -9,3 +9,4 @@ let words : arrayString = ["A", "B", "C"]
 let numbers : arrayNumber = [1, 2, 3]
 let anything : arrayAny = [1, "Two", false]
 
+var names : string[]|string;
